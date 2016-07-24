@@ -1,0 +1,19 @@
+{
+  "name": "kubeforked",
+  "version": "1.0.0",
+  "description": "kube",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminmeyghani/kube.git"
+  },
+  "author": "Amin Meyghani <meyghania@gmail.com> (http://meyghani.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aminmeyghani/kube/issues"
+  },
+  "homepage": "https://github.com/aminmeyghani/kube#readme"
+}
